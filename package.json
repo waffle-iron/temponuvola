@@ -1,0 +1,19 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "Productivity application using the pomodoro technique",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HughZurname/pomodoro.git"
+  },
+  "author": "HughZurname",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HughZurname/pomodoro/issues"
+  },
+  "homepage": "https://github.com/HughZurname/pomodoro#readme"
+}
